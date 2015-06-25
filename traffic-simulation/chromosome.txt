@@ -1,0 +1,1 @@
+{"localTrafficWeightage": 0.8, "minReduceFlowSignalStrength": 0.4, "minLocalThreshold": 0.6, "maxTrafficLightTime": 5.5, "maxTrafficLightTimeChangePerCycle": 0.2, "ReduceFlowSignalStrengthReductionPerNode": 0.2, "minTrafficLightTime": 0.2, "maxLocalThreshold": 0.8}
